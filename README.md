@@ -103,7 +103,7 @@ This algorithm outlines a basic walking sequence for a humanoid robot using 6 se
  4. Put the left leg down and return the hip to 90 degrees.
  5. Repeat the same steps for the right leg to create a walking motion.
 
->  The angles can change depending on your robot’s design and servo positions.
+>  The angles can change depending on robot’s design and servo positions.
 
 
 
