@@ -23,7 +23,7 @@ The goal of this project is to program and simulate servo motor control for a hu
 
 A servo motor is a small device with an output shaft that can be positioned to specific angular positions by sending it a coded signal. It is commonly used in robotics and motion-based projects.
 
-![ٍServo motor](Servo%20Motor.jpg)
+![ٍServo motor](Servo_Motor.jpg)
 
 ###  SG90 Servo Motor Specifications:
 - Operating Voltage: 4.8V – 6.0V  
@@ -79,7 +79,7 @@ In addition to the servo wiring above, connect a potentiometer as follows:
 - Middle pin to **Analog Pin A0**
 
 ####  Tinkercad circuit diagram – Knob setup  
-![Knob](Knop.png)
+![Knob](Knob.png)
 
 
 ##  How to Access the Code for both
