@@ -93,7 +93,17 @@ Each servo performs a sweeping motion (from 0° to 180°) for 2 seconds, after w
 
 🔗 [View the Arduino code here](Sweep.ino)
 
+## Walking Motion Algorithm for the Humanoid Robot
+This algorithm outlines a basic walking sequence for a humanoid robot using 6 servo motors representing legs and hips.
 
+### Algorithm Steps:
+1. Set all servos to 90 degrees (standing position).
+ 2. Lift the left leg by moving the hip servo to around 60 degrees.
+ 3. Move the left leg forward using the leg servo.
+ 4. Put the left leg down and return the hip to 90 degrees.
+ 5. Repeat the same steps for the right leg to create a walking motion.
+
+>  The angles can change depending on your robot’s design and servo positions.
 
 
 
