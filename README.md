@@ -1,4 +1,5 @@
-# Servo-Motors-Programming
+# ServoMotor & Algorithm
+
 
 ## Project Description  
 The goal of this project is to program and simulate servo motor control for a humanoid robot using Arduino. The tasks are as follows:
