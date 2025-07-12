@@ -2,11 +2,11 @@
 
 ## Project Description  
 The goal of this project is to program and simulate servo motor control for a humanoid robot using Arduino. The tasks are as follows:
-- Program 6 servo motors to perform the following actions:
+1. Program 6 servo motors to perform the following actions:
   - Run using the built-in Sweep example for 2 seconds.
   - After that, set all motors to hold at 90 degrees.
 
-- Design and write an algorithm that describes how the walking motion will be executed for the humanoid robot using these servo motors.
+2. Design and write an algorithm that describes how the walking motion will be executed for the humanoid robot using these servo motors.
   
 
 ## Components Used
