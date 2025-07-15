@@ -87,7 +87,7 @@ In addition to the servo wiring above, connect a potentiometer as follows:
 1. Open Arduino IDE
 2. Navigate to: File > Examples > Servo > Knob / Sweep
 
-## 6-Servo Sweep Example 
+## Servo Sweep Example 
 This section demonstrates how to control six SG90 servo motors using the Arduino Sweep method.
 Each servo performs a sweeping motion (from 0° to 180°) for 2 seconds, after which all servos hold their position at 90°.
 ![Six_Servo](sixServo.gif)
